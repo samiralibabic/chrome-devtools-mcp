@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.1](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v1.4.0...chrome-devtools-mcp-v1.4.1) (2026-06-29)
+
+
+### 🛠️ Fixes
+
+* respecte allow/block list in loadResouce ([#2254](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2254)) ([6a94663](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/6a9466378c13b6ccba91b54091ea83a5ca37a8db))
+
+
+### ⚡ Performance
+
+* use concurrent reads for `loadIssueDescriptions` ([#2249](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2249)) ([d144965](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/d1449654ac10031786e9d4741e781af26933907a))
+
 ## [1.4.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v1.3.0...chrome-devtools-mcp-v1.4.0) (2026-06-23)
 
 
